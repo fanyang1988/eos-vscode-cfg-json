@@ -1,0 +1,104 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "browse": {
+                "path": [
+                    "${INCLUDE}",
+                    "/usr/local/include/",
+                    "${workspaceFolder}",
+    
+                    "${workspaceFolder}/build/libraries/chain/include/",
+    
+                    "${workspaceFolder}/libraries/abi_generator/include/",
+                    "${workspaceFolder}/libraries/appbase/include/",
+                    "${workspaceFolder}/libraries/builtins/",
+                    "${workspaceFolder}/libraries/chain/include/",
+                    "${workspaceFolder}/libraries/chainbase/include/",
+                    "${workspaceFolder}/libraries/fc/include/",
+                    "${workspaceFolder}/libraries/softfloat/source/include/",
+                    "${workspaceFolder}/libraries/testing/include/",
+                    "${workspaceFolder}/libraries/utilities/include/",
+                    "${workspaceFolder}/libraries/wasm-jit/Include/",
+    
+                    "${workspaceFolder}/plugins/account_history_api_plugin/include/",
+                    "${workspaceFolder}/plugins/chain_api_plugin/include/",
+                    "${workspaceFolder}/plugins/faucet_testnet_plugin/include/",
+                    "${workspaceFolder}/plugins/http_client_plugin/include/",
+                    "${workspaceFolder}/plugins/net_api_plugin/include/",
+                    "${workspaceFolder}/plugins/producer_plugin/include/",
+                    "${workspaceFolder}/plugins/txn_test_gen_plugin/include/",
+                    "${workspaceFolder}/plugins/account_history_plugin/include/",
+                    "${workspaceFolder}/plugins/chain_interface/include/",
+                    "${workspaceFolder}/plugins/db_size_api_plugin/include/",
+                    "${workspaceFolder}/plugins/history_api_plugin/include/",
+                    "${workspaceFolder}/plugins/http_plugin/include/",
+                    "${workspaceFolder}/plugins/net_plugin/include/",
+                    "${workspaceFolder}/plugins/sql_db_plugin/include/",
+                    "${workspaceFolder}/plugins/wallet_api_plugin/include/",
+                    "${workspaceFolder}/plugins/bnet_plugin/include/",
+                    "${workspaceFolder}/plugins/chain_plugin/include/",
+                    "${workspaceFolder}/plugins/history_plugin/include/",
+                    "${workspaceFolder}/plugins/mongo_db_plugin/include/",
+                    "${workspaceFolder}/plugins/producer_api_plugin/include/",
+                    "${workspaceFolder}/plugins/template_plugin/include/",
+                    "${workspaceFolder}/plugins/wallet_plugin/include/",
+      
+                    "${HOME}/opt/boost/include/",
+                    "${BOOST_INCLUDE}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "${INCLUDE}",
+                "/usr/local/include/",
+                "${workspaceFolder}",
+
+                "${workspaceFolder}/build/libraries/chain/include/",
+
+                "${workspaceFolder}/libraries/abi_generator/include/",
+                "${workspaceFolder}/libraries/appbase/include/",
+                "${workspaceFolder}/libraries/builtins/",
+                "${workspaceFolder}/libraries/chain/include/",
+                "${workspaceFolder}/libraries/chainbase/include/",
+                "${workspaceFolder}/libraries/fc/include/",
+                "${workspaceFolder}/libraries/softfloat/source/include/",
+                "${workspaceFolder}/libraries/testing/include/",
+                "${workspaceFolder}/libraries/utilities/include/",
+                "${workspaceFolder}/libraries/wasm-jit/Include/",
+
+                "${workspaceFolder}/plugins/account_history_api_plugin/include/",
+                "${workspaceFolder}/plugins/chain_api_plugin/include/",
+                "${workspaceFolder}/plugins/faucet_testnet_plugin/include/",
+                "${workspaceFolder}/plugins/http_client_plugin/include/",
+                "${workspaceFolder}/plugins/net_api_plugin/include/",
+                "${workspaceFolder}/plugins/producer_plugin/include/",
+                "${workspaceFolder}/plugins/txn_test_gen_plugin/include/",
+                "${workspaceFolder}/plugins/account_history_plugin/include/",
+                "${workspaceFolder}/plugins/chain_interface/include/",
+                "${workspaceFolder}/plugins/db_size_api_plugin/include/",
+                "${workspaceFolder}/plugins/history_api_plugin/include/",
+                "${workspaceFolder}/plugins/http_plugin/include/",
+                "${workspaceFolder}/plugins/net_plugin/include/",
+                "${workspaceFolder}/plugins/sql_db_plugin/include/",
+                "${workspaceFolder}/plugins/wallet_api_plugin/include/",
+                "${workspaceFolder}/plugins/bnet_plugin/include/",
+                "${workspaceFolder}/plugins/chain_plugin/include/",
+                "${workspaceFolder}/plugins/history_plugin/include/",
+                "${workspaceFolder}/plugins/mongo_db_plugin/include/",
+                "${workspaceFolder}/plugins/producer_api_plugin/include/",
+                "${workspaceFolder}/plugins/template_plugin/include/",
+                "${workspaceFolder}/plugins/wallet_plugin/include/",
+  
+                "${HOME}/opt/boost/include/",
+                "${BOOST_INCLUDE}"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang++-4.0",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
